@@ -1,3 +1,4 @@
 D:/trs/learngit/testdir
 add line:create new branch
-quick & simple;
+create a new branch is quick and simple1.
+
